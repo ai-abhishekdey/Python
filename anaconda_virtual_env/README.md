@@ -70,11 +70,11 @@ conda deactivate
 ### Create new virtual environment using conda
 
 
-* Let’s say you want a new environment called **myenv** with Python 3.13
+* Let’s say you want a new environment called **myenv** with **Python 3.13**
 
 ```
 
-conda create -n myenv python=3.10
+conda create -n myenv python=3.13
 
 ```
 
