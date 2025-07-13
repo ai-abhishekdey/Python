@@ -31,7 +31,7 @@ chmod 777 Anaconda3-2025.06-0-Linux-x86_64.sh
 
 * Choose installation path
 
-* * Type **yes** for below prompt
+* Type **yes** for below prompt
 
 ```
 Do you wish to update your shell profile to automatically initialize conda?
@@ -52,14 +52,14 @@ source ~/.bashrc
 
 ```
 
-This will reload your shell configuration, and since you chose yes during install, it initializes conda and activates the base environment by default.
+This will reload your shell configuration, and since you chose yes during installation, it initializes conda and activates the base environment by default.
 
 ```
 (base) yourname@yourmachine:~$
 
 ```
 
-* To get out out of the base environment, type
+* To get out out of the **base** environment, type
 
 ```
 conda deactivate
